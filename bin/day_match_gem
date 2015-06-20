@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require './lib/day_match_gem/day_match_gem.rb'
+
+DayMatchGem::CLI.start
